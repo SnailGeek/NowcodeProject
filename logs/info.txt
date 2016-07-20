@@ -1,0 +1,3 @@
+hellowarn
+helloerror
+levelinfo
